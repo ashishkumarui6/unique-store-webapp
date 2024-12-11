@@ -5,3 +5,13 @@
   list-style: none;
   text-decoration: none;
 }
+
+.fw-bolder {
+  font-weight: bolder !important;
+  color: darkslategrey !important;
+}
+
+.text-uppercase {
+  text-transform: uppercase !important;
+  color: brown;
+}

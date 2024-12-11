@@ -54,7 +54,7 @@ const Products = () => {
   const ShowProducts = () => {
     return (
       <>
-        <div className="buttons d-flex justify-content-center mb-5 pb-5">
+        <div className="buttons d-flex justify-content-center  pb-5">
           <button
             className="btn btn-outline-dark me-2"
             onClick={() => setFIlter(data)}
@@ -120,7 +120,7 @@ const Products = () => {
 
   return (
     <div>
-      <div className="container my-5 py-5 ">
+      <div className="container  py-5 ">
         <div className="row">
           <div className="col-12 mb-5">
             <h1
